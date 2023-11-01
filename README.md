@@ -1,5 +1,5 @@
 # Landslide-Detection-
-Landslide Detection Using Remote Sensing 
+"Landslide Detection Using Remote Sensing" 
 This work had been done as part of a course work named "Environmental Programming" jointly offered by Vrije Universiteit Brussel and KU Leuven.
 Course Coordinator:
 Professor Dr. Elga Salvadore,
